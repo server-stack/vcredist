@@ -21,7 +21,7 @@ on versions of Windows operating systems that support side-by-side assemblies.
 | Visual Studio 2010 | Visual C++ 10.0 |                     |   100   | 4            | **[Download]()** | **[Download]()** |
 | Visual Studio 2012 | Visual C++ 11.0 |                     |   110   | 4.5          | **[Download]()** | **[Download]()** |
 | Visual Studio 2013 | Visual C++ 12.0 |                     |   120   | 4.5.1, 4.5.2 | **[Download]()** | **[Download]()** |
-| Visual Studio 2015 | Visual C++ 14.0 | 14.0.24215.20160928 | 140     | 4.6, 4.6.1   | **[Download](https://download.microsoft.com/download/6/A/A/6AA4EDFF-645B-48C5-81CC-ED5963AEAD48/vc_redist.x64.exe)** | **[Download](https://download.microsoft.com/download/6/A/A/6AA4EDFF-645B-48C5-81CC-ED5963AEAD48/vc_redist.x64.exe)** |
+| Visual Studio 2015 | Visual C++ 14.0 | 14.0.24215.20160928 | 140     | 4.6, 4.6.1   | **[Download](https://download.microsoft.com/download/6/A/A/6AA4EDFF-645B-48C5-81CC-ED5963AEAD48/vc_redist.x86.exe)** | **[Download](https://download.microsoft.com/download/6/A/A/6AA4EDFF-645B-48C5-81CC-ED5963AEAD48/vc_redist.x64.exe)** |
 | Visual Studio 2017 |                 |         |              |                  |                  |
 
 ## Origin
