@@ -23,7 +23,7 @@ on versions of Windows operating systems that support side-by-side assemblies.
 | Visual Studio 2013 | Visual C++ 12.0 |                     |   120   | 4.5.1, 4.5.2 | **[Download](http://download.microsoft.com/download/2/E/6/2E61CFA4-993B-4DD4-91DA-3737CD5CD6E3/vcredist_x86.exe)** | **[Download](http://download.microsoft.com/download/2/E/6/2E61CFA4-993B-4DD4-91DA-3737CD5CD6E3/vcredist_x64.exe)** |
 | Visual Studio 2015 | Visual C++ 14.0 | 14.0.24215.20160928 | 140     | 4.6, 4.6.1   | **[Download](https://download.microsoft.com/download/6/A/A/6AA4EDFF-645B-48C5-81CC-ED5963AEAD48/vc_redist.x86.exe)** | **[Download](https://download.microsoft.com/download/6/A/A/6AA4EDFF-645B-48C5-81CC-ED5963AEAD48/vc_redist.x64.exe)** |
 | Visual Studio 2017 |                 |                     | 140     | 4.6.2        | **[Download](https://download.microsoft.com/download/e/6/6/e66c5871-7afe-4640-a454-786eabe8aae8/vc_redist.x86.exe)** | **[Download](https://download.microsoft.com/download/7/2/5/72572684-052f-4aa9-9170-9d40813a87be/vc_redist.x64.exe)** |
-| Visual Studio 2019 |                 |                     | 140     |              |  |  |
+| Visual Studio 2019 |                 |                     | 140     | .NET Core 3.0 |  |  |
 
 ## Origin
 
