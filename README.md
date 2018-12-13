@@ -54,3 +54,7 @@ on versions of Windows operating systems that support side-by-side assemblies.
 - Visual Studio IDE - https://visualstudio.microsoft.com/de/vs/
 - Visual Studio Code - https://code.visualstudio.com/ - https://github.com/Microsoft/vscode
 - Visual Studio Product Information - https://docs.microsoft.com/de-de/visualstudio/productinfo/
+
+## .Net
+
+- Versions and Dependecies - https://docs.microsoft.com/en-us/dotnet/framework/migration-guide/versions-and-dependencies
