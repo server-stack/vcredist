@@ -57,4 +57,4 @@ on versions of Windows operating systems that support side-by-side assemblies.
 
 ## .Net
 
-- Versions and Dependecies - https://docs.microsoft.com/en-us/dotnet/framework/migration-guide/versions-and-dependencies
+- [Versions and Dependencies](https://docs.microsoft.com/en-us/dotnet/framework/migration-guide/versions-and-dependencies)
