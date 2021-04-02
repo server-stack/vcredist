@@ -23,7 +23,7 @@ on versions of Windows operating systems that support side-by-side assemblies.
 | Visual Studio 2013 | Visual C++ 12.0     |   120   | 4.5.1, 4.5.2 | **[Download](http://download.microsoft.com/download/2/E/6/2E61CFA4-993B-4DD4-91DA-3737CD5CD6E3/vcredist_x86.exe)** | **[Download](http://download.microsoft.com/download/2/E/6/2E61CFA4-993B-4DD4-91DA-3737CD5CD6E3/vcredist_x64.exe)** |
 | Visual Studio 2015 | Visual C++ 14.0     | 140     | 4.6, 4.6.1   | **[Download](https://download.microsoft.com/download/6/A/A/6AA4EDFF-645B-48C5-81CC-ED5963AEAD48/vc_redist.x86.exe)** | **[Download](https://download.microsoft.com/download/6/A/A/6AA4EDFF-645B-48C5-81CC-ED5963AEAD48/vc_redist.x64.exe)** |
 | Visual Studio 2017 | Visual C++ 14.1     | 140     | 4.6.2, 4.7   | **[Download](https://download.microsoft.com/download/e/6/6/e66c5871-7afe-4640-a454-786eabe8aae8/vc_redist.x86.exe)** | **[Download](https://download.microsoft.com/download/7/2/5/72572684-052f-4aa9-9170-9d40813a87be/vc_redist.x64.exe)** |
-| Visual Studio 2019 |                     | 140     | 4.8, Core 3.0 |  |  |
+| Visual Studio 2019 | Visual C++ 16.0     | 142     | 4.8, Core 3.0 and up | **[Download](https://aka.ms/vs/16/release/VC_redist.x86.exe)** | **[Download](https://aka.ms/vs/16/release/vc_redist.x64.exe)** |
 
 ## Origin
 
@@ -49,12 +49,19 @@ on versions of Windows operating systems that support side-by-side assemblies.
 - VC14 Packages (Visual C++ 2015 Redistributable Update 3)
   - https://www.microsoft.com/en-us/download/details.aspx?id=53840
 
+---
+
 ## Visual Studio 
 
 - Visual Studio IDE - https://visualstudio.microsoft.com/de/vs/
-- Visual Studio Code - https://code.visualstudio.com/ - https://github.com/Microsoft/vscode
 - Visual Studio Product Information - https://docs.microsoft.com/de-de/visualstudio/productinfo/
+
+## Visual Studio Code
+
+- Visual Studio Code - https://code.visualstudio.com/ - https://github.com/Microsoft/vscode
 
 ## .Net
 
+- [Download .Net](https://dotnet.microsoft.com/download/dotnet/)
+- [Install Guide for Developers](https://docs.microsoft.com/en-us/dotnet/framework/install/guide-for-developers)
 - [Versions and Dependencies](https://docs.microsoft.com/en-us/dotnet/framework/migration-guide/versions-and-dependencies)
