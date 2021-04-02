@@ -28,6 +28,7 @@ on versions of Windows operating systems that support side-by-side assemblies.
 ## Origin
 
 - [Latest Visual C++ Downloads - EN](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
+- [Determine which dlls to redistribute?](https://docs.microsoft.com/en-us/cpp/windows/determining-which-dlls-to-redistribute)
 
 - VC9 Packages (Visual C++ 2008)
   - x86: http://www.microsoft.com/en-us/download/details.aspx?id=5582 
