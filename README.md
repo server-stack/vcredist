@@ -30,7 +30,7 @@ on versions of Windows operating systems that support side-by-side assemblies.
 
 - [Latest Visual C++ Downloads - EN](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
 - [Determine which dlls to redistribute?](https://docs.microsoft.com/en-us/cpp/windows/determining-which-dlls-to-redistribute)
-- [C++ binary compatibility between Visual Studio versions 2015-2017](https://learn.microsoft.com/en-us/cpp/porting/binary-compat-2015-2017)
+- [C++ binary compatibility between Visual Studio versions](https://learn.microsoft.com/en-us/cpp/porting/binary-compat-2015-2017)
 
 - VC9 Packages (Visual C++ 2008)
   - x86: http://www.microsoft.com/en-us/download/details.aspx?id=5582 
